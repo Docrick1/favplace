@@ -1,0 +1,50 @@
+.header {
+    color: #c0c0c0;
+    text-shadow:0 0 5px #212529;
+    background-image: url("ghkenteeint.webp");
+    background-size: cover;
+    text-align: center;
+    font-family: "Goldman", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+#features {
+   background: #DEB841;
+    color: #ebebeb;
+    width: 400px;
+    height: 400px;
+    margin:0 auto;
+    padding: 30px;
+    display: block;
+    border: 5px solid #212529;
+    border-radius: 10%;
+}
+
+#ghana-map {
+    width: 150px;
+    height: 200px;
+    border: 10px solid black;
+    display: block;
+    margin: 30px auto 30px auto;
+}
+
+#input-search {
+    display: block;
+    margin:20px auto;
+    width: 200px;
+    line-height: 20px;
+    border: 1px solid #c0c0c0;
+    border-radius: 20px;
+    padding: 10px 100px;  
+}
+#footer {
+    font-family: "Handjet", system-ui;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+#gold-letters {
+    color: black;
+    text-shadow: 1px 1px 2px goldenrod;
+    
+}
